@@ -1,0 +1,141 @@
+﻿@model EmployeeVM
+@inject ICountryRep country
+
+
+@{
+    ViewData["Title"] = "Create Employee";
+}
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css">
+
+
+<div class="block-header">
+     <h2>Create Employee</h2>
+</div>
+
+
+<form asp-controller="Employee" asp-action="Create" class="form-group" enctype="multipart/form-data">
+
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    @{await Html.RenderPartialAsync("~/Views/Partials/Employee/CreateEdit.cshtml");}
+
+
+    <br /> <br />
+
+    <label>Country</label>
+    <select id="CountryList" class="form-control">
+        <option>Choose Country</option>
+        @foreach (var item in await country.GetAsync())
+        {
+<option value="@item.Id">@item.Name</option>}
+    </select>
+
+    <br /> <br />
+
+    <label>City</label>
+    <select id="CityList" class="form-control">
+        <option>Choose City</option>
+    </select>
+
+    <br /> <br />
+
+    <label>District</label>
+    <select asp-for="DistrictId" id="DistrictList" class="form-control">
+        <option>Choose District</option>
+    </select>
+
+    <br /> <br />
+
+    <label asp-for="Image">Your Image</label>
+    <input asp-for="Image" type="file" class="form-control" />
+    <br /> <br />
+
+    <label asp-for="Cv">Your Cv</label>
+    <input asp-for="Cv" type="file" class="form-control" />
+    <br /> <br />
+
+    <center>
+        <input type="submit" value="Save" class="btn btn-primary" />
+        <input type="reset" value="Cancle" class="btn btn-warning" />
+        <a asp-controller="Department" asp-action="Index" class="btn btn-info">Return</a>
+    </center>
+</form>
+
+
+
+
+@section JqueryValidation{
+    <script src="~/plugins/jquery-validation/jquery.validate.js"></script>
+    <script src="~/plugins/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+    <script src="https://code.jquery.com/ui/1.13.1/jquery-ui.js"></script>
+
+    <script>
+      $(function(){
+        $("#datepicker").datepicker();
+
+
+        $("#CountryList").change(function(){
+        
+            var countryId = $("#CountryList option:selected").val();
+
+            $("#CityList").empty();
+            $("#CityList").append("<option>Choose City</option>");
+
+            $.ajax({
+            
+                type:"POST",
+                url:"/Employee/GetCitiesByCountryId",
+                data:{CntryId:countryId},
+                success:function(result){
+                
+                   $.each(result,function(index,element){
+                   
+                       $("#CityList").append("<option value='"+element.Id+"'>"+element.Name+"</option>");
+                   });
+
+                    $('select').selectpicker('refresh');
+
+                }
+
+            
+            });
+        });
+
+
+        $("#CityList").change(function(){
+        
+            var cityId = $("#CityList option:selected").val();
+
+            $("#DistrictList").empty();
+            $("#DistrictList").append("<option>Choose District</option>");
+
+            $.ajax({
+            
+                type:"POST",
+                url:"/Employee/GetDistrictsByCityId",
+                data:{CtyId:cityId},
+                success:function(result){
+                
+                   $.each(result,function(index,element){
+                   
+                       $("#DistrictList").append("<option value='"+element.Id+"'>"+element.Name+"</option>");
+                   });
+
+                    $('select').selectpicker('refresh');
+                }
+
+            
+            });
+        });
+
+
+      });
+   </script>
+}
+
+
+@section BootstrapSelect{
+    <link rel="stylesheet" href="~/plugins/bootstrap-select/css/bootstrap-select.css" />
+}
+

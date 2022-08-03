@@ -1,0 +1,27 @@
+﻿@model DepartmentVM
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+
+<div class="block-header">
+     <h2>Details For : @Model.Name</h2>
+</div>
+
+
+    <label asp-for="Name">Name</label>
+    <input type="text" asp-for="Name" class="form-control" disabled />
+    <br />
+
+
+    <label asp-for="Code">Code</label>
+    <input type="text" asp-for="Code" class="form-control" disabled/>
+    <br />
+
+
+    <center>
+        <a asp-controller="Department" asp-action="Index" class="btn btn-info">Return</a>
+        <a asp-controller="Department" asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-info">Edit</a>
+        <a asp-controller="Department" asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-info">Delete</a>
+    </center>

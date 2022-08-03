@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1e493e10-2f8f-421e-9679-6db7f48645c6": {
+      "ProjectGuid": "1e493e10-2f8f-421e-9679-6db7f48645c6",
+      "DisplayName": "DarEfta.Portal",
+      "ColorIndex": 0
+    },
+    "ef863a54-c86a-414c-b91f-6e8c71e83119": {
+      "ProjectGuid": "ef863a54-c86a-414c-b91f-6e8c71e83119",
+      "DisplayName": "DarEfta.BL",
+      "ColorIndex": 1
+    },
+    "30c9b038-b112-4fbb-b6d4-c718130ac8bf": {
+      "ProjectGuid": "30c9b038-b112-4fbb-b6d4-c718130ac8bf",
+      "DisplayName": "DarEfta.DAL",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "46d9d7b9-bda8-48de-a649-988f50e416e3": {
+      "ProjectGuid": "46d9d7b9-bda8-48de-a649-988f50e416e3",
+      "DisplayName": "DarEfta.API",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

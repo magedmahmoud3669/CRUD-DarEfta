@@ -1,0 +1,135 @@
+C:\Users\Ahmed El Gendy\source\repos\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.BL.deps.json
+C:\Users\Ahmed El Gendy\source\repos\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.BL.dll
+C:\Users\Ahmed El Gendy\source\repos\DarEfta\DarEfta.BL\bin\Debug\net6.0\ref\DarEfta.BL.dll
+C:\Users\Ahmed El Gendy\source\repos\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.BL.pdb
+C:\Users\Ahmed El Gendy\source\repos\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.DAL.dll
+C:\Users\Ahmed El Gendy\source\repos\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.DAL.pdb
+C:\Users\Ahmed El Gendy\source\repos\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.csproj.AssemblyReference.cache
+C:\Users\Ahmed El Gendy\source\repos\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmed El Gendy\source\repos\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.AssemblyInfoInputs.cache
+C:\Users\Ahmed El Gendy\source\repos\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.AssemblyInfo.cs
+C:\Users\Ahmed El Gendy\source\repos\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.csproj.CoreCompileInputs.cache
+C:\Users\Ahmed El Gendy\source\repos\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.csproj.CopyComplete
+C:\Users\Ahmed El Gendy\source\repos\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.dll
+C:\Users\Ahmed El Gendy\source\repos\DarEfta\DarEfta.BL\obj\Debug\net6.0\ref\DarEfta.BL.dll
+C:\Users\Ahmed El Gendy\source\repos\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.pdb
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 3\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.BL.deps.json
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 3\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.BL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 3\DarEfta\DarEfta.BL\bin\Debug\net6.0\ref\DarEfta.BL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 3\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.BL.pdb
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 3\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.DAL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 3\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.DAL.pdb
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 3\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.csproj.AssemblyReference.cache
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 3\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 3\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.AssemblyInfoInputs.cache
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 3\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.AssemblyInfo.cs
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 3\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.csproj.CoreCompileInputs.cache
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 3\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.csproj.CopyComplete
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 3\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 3\DarEfta\DarEfta.BL\obj\Debug\net6.0\ref\DarEfta.BL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 3\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.pdb
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 4\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.BL.deps.json
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 4\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.BL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 4\DarEfta\DarEfta.BL\bin\Debug\net6.0\ref\DarEfta.BL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 4\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.BL.pdb
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 4\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.DAL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 4\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.DAL.pdb
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 4\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.csproj.AssemblyReference.cache
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 4\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 4\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.AssemblyInfoInputs.cache
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 4\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.AssemblyInfo.cs
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 4\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.csproj.CoreCompileInputs.cache
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 4\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.csproj.CopyComplete
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 4\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 4\DarEfta\DarEfta.BL\obj\Debug\net6.0\ref\DarEfta.BL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 4\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.pdb
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 5\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.BL.deps.json
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 5\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.BL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 5\DarEfta\DarEfta.BL\bin\Debug\net6.0\ref\DarEfta.BL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 5\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.BL.pdb
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 5\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.DAL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 5\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.DAL.pdb
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 5\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.csproj.AssemblyReference.cache
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 5\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 5\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.AssemblyInfoInputs.cache
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 5\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.AssemblyInfo.cs
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 5\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.csproj.CoreCompileInputs.cache
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 5\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.csproj.CopyComplete
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 5\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 5\DarEfta\DarEfta.BL\obj\Debug\net6.0\ref\DarEfta.BL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 5\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.pdb
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 6\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.BL.deps.json
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 6\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.BL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 6\DarEfta\DarEfta.BL\bin\Debug\net6.0\ref\DarEfta.BL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 6\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.BL.pdb
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 6\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.DAL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 6\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.DAL.pdb
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 6\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.csproj.AssemblyReference.cache
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 6\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 6\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.AssemblyInfoInputs.cache
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 6\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.AssemblyInfo.cs
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 6\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.csproj.CoreCompileInputs.cache
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 6\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.csproj.CopyComplete
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 6\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 6\DarEfta\DarEfta.BL\obj\Debug\net6.0\ref\DarEfta.BL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 6\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.pdb
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 7\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.BL.deps.json
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 7\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.BL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 7\DarEfta\DarEfta.BL\bin\Debug\net6.0\ref\DarEfta.BL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 7\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.BL.pdb
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 7\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.DAL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 7\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.DAL.pdb
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 7\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.csproj.AssemblyReference.cache
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 7\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 7\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.AssemblyInfoInputs.cache
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 7\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.AssemblyInfo.cs
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 7\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.csproj.CoreCompileInputs.cache
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 7\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.csproj.CopyComplete
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 7\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 7\DarEfta\DarEfta.BL\obj\Debug\net6.0\ref\DarEfta.BL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 7\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.pdb
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 8\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.BL.deps.json
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 8\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.BL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 8\DarEfta\DarEfta.BL\bin\Debug\net6.0\ref\DarEfta.BL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 8\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.BL.pdb
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 8\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.DAL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 8\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.DAL.pdb
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 8\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.csproj.AssemblyReference.cache
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 8\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 8\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.AssemblyInfoInputs.cache
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 8\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.AssemblyInfo.cs
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 8\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.csproj.CoreCompileInputs.cache
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 8\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.csproj.CopyComplete
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 8\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 8\DarEfta\DarEfta.BL\obj\Debug\net6.0\ref\DarEfta.BL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 8\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.pdb
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 9\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.BL.deps.json
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 9\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.BL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 9\DarEfta\DarEfta.BL\bin\Debug\net6.0\ref\DarEfta.BL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 9\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.BL.pdb
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 9\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.DAL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 9\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.DAL.pdb
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 9\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.csproj.AssemblyReference.cache
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 9\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 9\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.AssemblyInfoInputs.cache
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 9\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.AssemblyInfo.cs
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 9\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.csproj.CoreCompileInputs.cache
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 9\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.csproj.CopyComplete
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 9\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 9\DarEfta\DarEfta.BL\obj\Debug\net6.0\ref\DarEfta.BL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 9\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.pdb
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 12\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.BL.deps.json
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 12\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.BL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 12\DarEfta\DarEfta.BL\bin\Debug\net6.0\ref\DarEfta.BL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 12\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.BL.pdb
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 12\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.DAL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 12\DarEfta\DarEfta.BL\bin\Debug\net6.0\DarEfta.DAL.pdb
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 12\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.csproj.AssemblyReference.cache
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 12\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 12\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.AssemblyInfoInputs.cache
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 12\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.AssemblyInfo.cs
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 12\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.csproj.CoreCompileInputs.cache
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 12\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.csproj.CopyComplete
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 12\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 12\DarEfta\DarEfta.BL\obj\Debug\net6.0\ref\DarEfta.BL.dll
+D:\Rounds\دار الافتاء\BackEnd\.Net Core 6\Session_ 12\DarEfta\DarEfta.BL\obj\Debug\net6.0\DarEfta.BL.pdb
