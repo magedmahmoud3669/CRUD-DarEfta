@@ -8,81 +8,81 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DarEfta.Portal
 build_property.RootNamespace = DarEfta.Portal
-build_property.ProjectDir = I:\DotNet\DotNetCore\session15(API)\DarEfta\DarEfta\DarEfta.Portal\
+build_property.ProjectDir = I:\DotNet\بيانات العاملين\CRUD-DarEfta\DarEfta.Portal\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = I:\DotNet\DotNetCore\session15(API)\DarEfta\DarEfta\DarEfta.Portal
+build_property.MSBuildProjectDirectory = I:\DotNet\بيانات العاملين\CRUD-DarEfta\DarEfta.Portal
 build_property._RazorSourceGeneratorDebug = 
 
-[I:/DotNet/DotNetCore/session15(API)/DarEfta/DarEfta/DarEfta.Portal/Views/Department/Create.cshtml]
+[I:/DotNet/بيانات العاملين/CRUD-DarEfta/DarEfta.Portal/Views/Department/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/DotNet/DotNetCore/session15(API)/DarEfta/DarEfta/DarEfta.Portal/Views/Department/Delete.cshtml]
+[I:/DotNet/بيانات العاملين/CRUD-DarEfta/DarEfta.Portal/Views/Department/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/DotNet/DotNetCore/session15(API)/DarEfta/DarEfta/DarEfta.Portal/Views/Department/Details.cshtml]
+[I:/DotNet/بيانات العاملين/CRUD-DarEfta/DarEfta.Portal/Views/Department/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/DotNet/DotNetCore/session15(API)/DarEfta/DarEfta/DarEfta.Portal/Views/Department/Edit.cshtml]
+[I:/DotNet/بيانات العاملين/CRUD-DarEfta/DarEfta.Portal/Views/Department/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/DotNet/DotNetCore/session15(API)/DarEfta/DarEfta/DarEfta.Portal/Views/Department/Index.cshtml]
+[I:/DotNet/بيانات العاملين/CRUD-DarEfta/DarEfta.Portal/Views/Department/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/DotNet/DotNetCore/session15(API)/DarEfta/DarEfta/DarEfta.Portal/Views/Department/Test.cshtml]
+[I:/DotNet/بيانات العاملين/CRUD-DarEfta/DarEfta.Portal/Views/Department/Test.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxUZXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/DotNet/DotNetCore/session15(API)/DarEfta/DarEfta/DarEfta.Portal/Views/Employee/Create.cshtml]
+[I:/DotNet/بيانات العاملين/CRUD-DarEfta/DarEfta.Portal/Views/Employee/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/DotNet/DotNetCore/session15(API)/DarEfta/DarEfta/DarEfta.Portal/Views/Employee/Delete.cshtml]
+[I:/DotNet/بيانات العاملين/CRUD-DarEfta/DarEfta.Portal/Views/Employee/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/DotNet/DotNetCore/session15(API)/DarEfta/DarEfta/DarEfta.Portal/Views/Employee/Details.cshtml]
+[I:/DotNet/بيانات العاملين/CRUD-DarEfta/DarEfta.Portal/Views/Employee/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/DotNet/DotNetCore/session15(API)/DarEfta/DarEfta/DarEfta.Portal/Views/Employee/Edit.cshtml]
+[I:/DotNet/بيانات العاملين/CRUD-DarEfta/DarEfta.Portal/Views/Employee/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/DotNet/DotNetCore/session15(API)/DarEfta/DarEfta/DarEfta.Portal/Views/Employee/Index.cshtml]
+[I:/DotNet/بيانات العاملين/CRUD-DarEfta/DarEfta.Portal/Views/Employee/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/DotNet/DotNetCore/session15(API)/DarEfta/DarEfta/DarEfta.Portal/Views/Home/Index.cshtml]
+[I:/DotNet/بيانات العاملين/CRUD-DarEfta/DarEfta.Portal/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/DotNet/DotNetCore/session15(API)/DarEfta/DarEfta/DarEfta.Portal/Views/Layout/_Layout.cshtml]
+[I:/DotNet/بيانات العاملين/CRUD-DarEfta/DarEfta.Portal/Views/Layout/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0XF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/DotNet/DotNetCore/session15(API)/DarEfta/DarEfta/DarEfta.Portal/Views/Partials/Employee/CreateEdit.cshtml]
+[I:/DotNet/بيانات العاملين/CRUD-DarEfta/DarEfta.Portal/Views/Partials/Employee/CreateEdit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcRW1wbG95ZWVcQ3JlYXRlRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/DotNet/DotNetCore/session15(API)/DarEfta/DarEfta/DarEfta.Portal/Views/Partials/Employee/DeleteDetails.cshtml]
+[I:/DotNet/بيانات العاملين/CRUD-DarEfta/DarEfta.Portal/Views/Partials/Employee/DeleteDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydGlhbHNcRW1wbG95ZWVcRGVsZXRlRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/DotNet/DotNetCore/session15(API)/DarEfta/DarEfta/DarEfta.Portal/Views/Test/Index.cshtml]
+[I:/DotNet/بيانات العاملين/CRUD-DarEfta/DarEfta.Portal/Views/Test/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/DotNet/DotNetCore/session15(API)/DarEfta/DarEfta/DarEfta.Portal/Views/_ViewImports.cshtml]
+[I:/DotNet/بيانات العاملين/CRUD-DarEfta/DarEfta.Portal/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[I:/DotNet/DotNetCore/session15(API)/DarEfta/DarEfta/DarEfta.Portal/Views/_ViewStart.cshtml]
+[I:/DotNet/بيانات العاملين/CRUD-DarEfta/DarEfta.Portal/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

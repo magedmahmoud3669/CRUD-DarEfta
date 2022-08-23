@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "79uCyWVbo/hPsiIbss1awAQ4f4AaYNY0X9nHdxJhnvmz+Q5v7cmYipaM2g3EknOcdOL5zjk7Z2WCFcK2/Lywlw==",
+  "dgSpecHash": "uXVQls4LFwSmqqmgOG3O9fjuAY8AHIJuZG7W/WloQlEChrS+PrHzqyC0JjpLFw0VjqnjpQ0U3jex1bLJ7vTXJQ==",
   "success": true,
-  "projectFilePath": "I:\\DotNet\\DotNetCore\\session15(API)\\DarEfta\\DarEfta\\DarEfta.DAL\\DarEfta.DAL.csproj",
+  "projectFilePath": "I:\\DotNet\\بيانات العاملين\\CRUD-DarEfta\\DarEfta.DAL\\DarEfta.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maged\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\maged\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

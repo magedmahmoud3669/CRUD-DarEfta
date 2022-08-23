@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Fi5N7xVeK9BcFDDfNSHsg9moyGllNWp+woeRpfRqXahqFQJgTt2kDKeAAE2C+jfOJ8gmrUE2BYBnK5+TbaPuIA==",
+  "dgSpecHash": "1gV/gP+QFT1Eh6XRZeBljxniu8gckPmxT+TN4NuJ7Uvr/QLTicyGfLDINEY9QVdW04ywNiLCbu8R+bcRsiX/3g==",
   "success": true,
-  "projectFilePath": "I:\\DotNet\\DotNetCore\\session15(API)\\DarEfta\\DarEfta\\DarEfta.Portal\\DarEfta.Portal.csproj",
+  "projectFilePath": "I:\\DotNet\\بيانات العاملين\\CRUD-DarEfta\\DarEfta.Portal\\DarEfta.Portal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maged\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\maged\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

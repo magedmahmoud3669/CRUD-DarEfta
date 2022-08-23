@@ -2130,11 +2130,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "I:\\DotNet\\DotNetCore\\session15(API)\\DarEfta\\DarEfta\\DarEfta.API\\DarEfta.API.csproj",
+      "projectUniqueName": "I:\\DotNet\\بيانات العاملين\\CRUD-DarEfta\\DarEfta.API\\DarEfta.API.csproj",
       "projectName": "DarEfta.API",
-      "projectPath": "I:\\DotNet\\DotNetCore\\session15(API)\\DarEfta\\DarEfta\\DarEfta.API\\DarEfta.API.csproj",
+      "projectPath": "I:\\DotNet\\بيانات العاملين\\CRUD-DarEfta\\DarEfta.API\\DarEfta.API.csproj",
       "packagesPath": "C:\\Users\\maged\\.nuget\\packages\\",
-      "outputPath": "I:\\DotNet\\DotNetCore\\session15(API)\\DarEfta\\DarEfta\\DarEfta.API\\obj\\",
+      "outputPath": "I:\\DotNet\\بيانات العاملين\\CRUD-DarEfta\\DarEfta.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\maged\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2151,8 +2151,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "I:\\DotNet\\DotNetCore\\session15(API)\\DarEfta\\DarEfta\\DarEfta.BL\\DarEfta.BL.csproj": {
-              "projectPath": "I:\\DotNet\\DotNetCore\\session15(API)\\DarEfta\\DarEfta\\DarEfta.BL\\DarEfta.BL.csproj"
+            "I:\\DotNet\\بيانات العاملين\\CRUD-DarEfta\\DarEfta.BL\\DarEfta.BL.csproj": {
+              "projectPath": "I:\\DotNet\\بيانات العاملين\\CRUD-DarEfta\\DarEfta.BL\\DarEfta.BL.csproj"
             }
           }
         }
